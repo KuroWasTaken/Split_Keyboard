@@ -12,7 +12,7 @@
 Le circuit imprimé a été conçu pour être séparé en deux parties. J'ai utilisé des pistes larges de **24mil** pour garantir une excellente fiabilité et faciliter la soudure des composants.
 
 <p align="center">
-  <img src="pcb_render.png" width="800" alt="Rendu 3D du PCB">
+  <img src="ergodow keyboard.png" width="800" alt="Rendu 3D du PCB">
 </p>
 
 ---
