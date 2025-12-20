@@ -34,7 +34,26 @@ Le boîtier est optimisé pour l'impression 3D. Il se compose d'une plaque supé
     </td>
   </tr>
 </table>
+---
+<hr>
 
+<table>
+  <tr>
+    <td>
+      <h2>🧠 Firmware & Programmation</h2>
+      <p>Le clavier est piloté par le firmware <b>QMK</b>, ce qui permet une personnalisation totale :</p>
+      <ul>
+        <li><b>Multi-couches :</b> Passage facile entre AZERTY, chiffres et symboles.</li>
+        <li><b>Split :</b> Gestion native de la communication entre les deux moitiés.</li>
+        <li><b>Macros :</b> Raccourcis complexes programmables sur une seule touche.</li>
+      </ul>
+      <p><i>Le firmware peut être mis à jour simplement via USB avec QMK Toolbox.</i></p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://docs.qmk.fm/qmk-logo-light.svg" width="150">
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🚀 État d'avancement
