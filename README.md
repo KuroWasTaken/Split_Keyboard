@@ -23,12 +23,12 @@ Le boîtier est optimisé pour l'impression 3D. Il se compose d'une plaque supé
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="plate.jpg" alt="Plaque supérieure">
+      <img src="plate.png" alt="Plaque supérieure">
       <br>
       <b>Plaque de maintien (Switch Plate)</b>
     </td>
     <td width="50%" align="center">
-      <img src="case.jpg" alt="Cadre du boîtier">
+      <img src="sdw_top.png" alt="Cadre du boîtier">
       <br>
       <b>Cadre du boîtier (Case Frame)</b>
     </td>
