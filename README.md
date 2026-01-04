@@ -59,12 +59,14 @@ Le boîtier est optimisé pour l'impression 3D. Il se compose d'une plaque supé
 ## 🚀 État d'avancement
 - [x] Routage du PCB (KiCad)
 - [x] Modélisation des pièces (SolidWorks)
-- [ ] Impression 3D des composants (Bientôt)
-- [ ] Assemblage final et Firmware QMK/VIA
+- [X] Impression 3D des composants (Bientôt)
+- [X] Assemblage final et Firmware QMK/VIA
 
 <br>
 
 <div align="center">
-  <h3>📸 Les photos du montage final arrivent bientôt !</h3>
-  <p><i>Restez connectés pour voir le résultat après impression 3D.</i></p>
+  <h3>📸 Rendu final !</h3>
+  <img width="1080" height="720" alt="image" src="https://github.com/user-attachments/assets/d6add6ba-01b2-4a18-bc82-23841da1ee18" />
+
+  <p><i>Je suis très content du rendu final. Si vous avez des questions n'hésitez pas a me les poser</i></p>
 </div>
