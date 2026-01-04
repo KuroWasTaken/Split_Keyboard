@@ -1,6 +1,7 @@
 <div align="center">
   <h1>⌨️ Projet Clavier Split Ergonomique</h1>
   <p><i>Conception matérielle et mécanique par Quentin JALLAIS</i></p>
+  Projet basé sur le modèle de BluePrint Hackclub : https://blueprint.hackclub.com/projects/2176?return_to=%2Fexplore%3Futm_source%3Dsite
 
   <img src="https://img.shields.io/badge/Status-Design_Phase-orange?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/Logiciels-KiCad_%7C_SolidWorks-blue?style=for-the-badge" alt="Logiciels">
