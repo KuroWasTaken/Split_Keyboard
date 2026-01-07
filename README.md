@@ -60,7 +60,7 @@ Le boîtier est optimisé pour l'impression 3D. Il se compose d'une plaque supé
 ## 🚀 État d'avancement
 - [x] Routage du PCB (KiCad)
 - [x] Modélisation des pièces (SolidWorks)
-- [X] Impression 3D des composants (Bientôt)
+- [X] Impression 3D des composants (Remerciement a Edouard Lauvray)
 - [X] Assemblage final et Firmware QMK/VIA
 
 <br>
