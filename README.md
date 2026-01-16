@@ -68,7 +68,9 @@ Le boîtier est optimisé pour l'impression 3D. Il se compose d'une plaque supé
 
 <div align="center">
   <h3>📸 Rendu final !</h3>
-  <img width="1080" height="720" alt="image" src="https://github.com/user-attachments/assets/d6add6ba-01b2-4a18-bc82-23841da1ee18" />
+  <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7e8c4223-1466-4b29-bc21-8732815f0e1d" />
+  Plus que des sticker et le projet sera enfin fini !
+
 
   <p><i>Je suis très content du rendu final. Si vous avez des questions n'hésitez pas a me les poser</i></p>
 </div>
